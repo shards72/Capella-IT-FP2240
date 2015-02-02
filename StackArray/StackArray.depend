@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1422265856 source:c:\users\shawn\google drive\capella\active\it-fp2240 - intro to programming\arraystack\arraystack.c
+	<stdio.h>
+	<conio.h>
+
+1422268161 source:c:\users\shawn\google drive\capella\active\it-fp2240 - intro to programming\arraystack\main.c
+	<stdio.h>
+	<stdlib.h>
+
