@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1423406173 source:c:\users\shawn\skydrive\capella\active\it-fp2240 - intro to programming\code\capella-it-fp2240\errorcheck\errorcheck\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+	<math.h>
+
